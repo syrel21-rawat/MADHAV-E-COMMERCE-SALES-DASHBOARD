@@ -40,3 +40,5 @@ Harivansh is the top customer in terms of sales.
 ## 📷 Dashboard 
 <img width="885" height="491" alt="Image" src="https://github.com/user-attachments/assets/bd13a1e4-536b-49f8-8d13-1d5ecb0aa9cc" />
 
+https://github.com/user-attachments/assets/7424be48-0108-4298-87a0-60416726bf51
+
