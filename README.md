@@ -3,7 +3,7 @@
 This project is an interactive Power BI dashboard created to analyze E-Commerce Sales Performance across different states, categories, customers, and payment modes. It provides a comprehensive overview of profits, sales trends, and customer insights.
 
 
-## Visual Insights
+## 📊Visual Insights
 
 📍 State-wise Sales Performance (Top performing states like Maharashtra, Madhya Pradesh, Delhi, Uttar Pradesh)
 
