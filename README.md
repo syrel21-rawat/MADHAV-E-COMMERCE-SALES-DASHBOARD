@@ -38,4 +38,5 @@ COD & UPI are the most preferred payment methods.
 Harivansh is the top customer in terms of sales.
 
 ## 📷 Dashboard 
-https://github.com/user-attachments/assets/40c1e265-8fe2-4e77-b69a-9e9e26f3a13a
+<img width="885" height="491" alt="Image" src="https://github.com/user-attachments/assets/bd13a1e4-536b-49f8-8d13-1d5ecb0aa9cc" />
+
